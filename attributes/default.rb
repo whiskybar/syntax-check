@@ -1,3 +1,3 @@
 depends 'settings'
 
-node['settings']
+default['settings'] = node['settings']
