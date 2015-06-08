@@ -1,1 +1,3 @@
 depends 'settings'
+
+default['settings']
