@@ -1,4 +1,4 @@
-name 'syntax-check'
+name '000-syntax-check'
 maintainer 'Pantheon Systems'
 maintainer_email 'engineering@getpantheon.com'
 license 'Apache 2.0'
